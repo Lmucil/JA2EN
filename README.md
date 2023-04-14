@@ -10,3 +10,7 @@ speech recognition
 
 deeptranslate
 
+# 使い方
+デフォルトではセミコロン(;)を押すと、pythonファイルが走っている限り、
+
+音声聞き取りが始まります。
