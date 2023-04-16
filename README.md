@@ -8,7 +8,7 @@ Python3
 
 speech recognition
 
-deeptranslate
+deep_translator
 
 pyttsx3
 
