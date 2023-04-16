@@ -10,6 +10,8 @@ speech recognition
 
 deeptranslate
 
+pyttsx3
+
 keyboard(おそらくデフォルトで入っている)
 
 # 使い方
