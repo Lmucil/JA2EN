@@ -19,4 +19,9 @@ keyboard(おそらくデフォルトで入っている)
 
 音声聞き取りが始まります。
 
-# 
+# 開発環境
+Windows 11 Home
+
+Python 3.7
+
+VSCode
