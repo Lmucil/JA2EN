@@ -25,3 +25,6 @@ Windows 11 Home
 Python 3.7
 
 VSCode
+
+# 仕組み
+
