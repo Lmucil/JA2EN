@@ -27,4 +27,4 @@ Python 3.7
 VSCode
 
 # 仕組み
-
+まずspeech recognitionで
