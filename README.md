@@ -3,7 +3,9 @@
 
 他の主要な言語から英語にもできますが、精度は保証しません。
 
-# 必要条件
+# 必要な環境、ライブラリ
+インターネット
+
 Python3
 
 speech recognition
@@ -13,6 +15,8 @@ deep_translator
 pyttsx3
 
 keyboard(おそらくデフォルトで入っている)
+
+
 
 # 使い方
 デフォルトではセミコロン(;)を押すと、pythonファイルが走っている限り、
@@ -27,4 +31,4 @@ Python 3.7
 VSCode
 
 # 仕組み
-まずspeech recognitionで
+まずspeech recognitionで音声を日本語として聞き取ります
