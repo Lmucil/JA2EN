@@ -32,4 +32,8 @@ VSCode
 
 # 仕組み
 まずspeech recognitionで音声を日本語として聞き取ります
+
 それを文字としてかきだし、
+
+deep-translateで英語に翻訳します。
+
